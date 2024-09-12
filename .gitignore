@@ -11,7 +11,7 @@
 /build
 !app-release.apk
 /captures
-!.apk
+!build/outputs/apk/androidTest/debug/se.gritacademy.firebaserealtimedb-v1(1.0)-debug-androidTest.apk
 .externalNativeBuild
 .cxx
 local.properties
